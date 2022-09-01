@@ -69,5 +69,11 @@
 * ## Widgets
 
   <p align="center">
-    <img src="./images/widgets.png" alt="material design">
+    <img src="./images/widgets.png" alt="Widgets">
+  </p>
+
+* ## Different types of Widgets
+
+  <p align="center">
+    <img src="./images/widgetstype.png" alt="Widget Type">
   </p>

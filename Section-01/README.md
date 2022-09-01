@@ -87,6 +87,10 @@
 
   Inflate the given widget and attach it to the screen.
 
+* ### `@override`
+
+  Annotation on an instance members which override an interface member.
+
 ## Example
 
 ```dart
@@ -96,7 +100,10 @@ void main() {
   runApp(MyApp());
 }
 
+// void main() => runApp(MyApp());
+
 class MyApp extends StatelessWidget {
+  @override
   Widget build(BuildContext context) {
     return MaterialApp(home: Text('Hello World!'));
   }
