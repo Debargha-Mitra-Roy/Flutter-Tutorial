@@ -77,3 +77,9 @@
   <p align="center">
     <img src="./images/widgetstype.png" alt="Widget Type">
   </p>
+
+  * ### Stateless Widget vs Stateful Widget
+  
+  <p align="center">
+    <img src="./images/state.png" alt="State Type Widget">
+  </p>
